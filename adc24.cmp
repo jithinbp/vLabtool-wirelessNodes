@@ -1,0 +1,94 @@
+Cmp-Mod V01 Created by Cvpcb 0.201411241846+5301~19~ubuntu14.04.1-product   date = Tue Jun  9 08:34:27 2015
+
+BeginCmp
+TimeStamp = /5570125F;
+Reference = C1;
+ValeurCmp = .1u;
+IdModule  = MyLib:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55701252;
+Reference = C2;
+ValeurCmp = .1u;
+IdModule  = MyLib:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55755E31;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = MyLib:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /557558D8;
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = MyLib:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5576ACE9;
+Reference = D3;
+ValeurCmp = DIODE;
+IdModule  = MyLib:Diode-SMA_Standard;
+EndCmp
+
+BeginCmp
+TimeStamp = /55701213;
+Reference = P1;
+ValeurCmp = POWER;
+IdModule  = MyLib:myPin_Header_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /5576A785;
+Reference = P2;
+ValeurCmp = gpio;
+IdModule  = MyLib:myPin_Header_Straight_1x06;
+EndCmp
+
+BeginCmp
+TimeStamp = /55753087;
+Reference = P3;
+ValeurCmp = I2C/SPI;
+IdModule  = MyLib:Pin_Header_Straight_1x10-oval;
+EndCmp
+
+BeginCmp
+TimeStamp = /55702D41;
+Reference = P4;
+ValeurCmp = PROG;
+IdModule  = MyLib:PICKIT-PROG;
+EndCmp
+
+BeginCmp
+TimeStamp = /55755E06;
+Reference = R1;
+ValeurCmp = 10K;
+IdModule  = MyLib:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55755A2C;
+Reference = R2;
+ValeurCmp = 10K;
+IdModule  = MyLib:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5570120C;
+Reference = U1;
+ValeurCmp = NRF24L01;
+IdModule  = MyLib:NRF-8PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = /55701205;
+Reference = U2;
+ValeurCmp = PIC16F1618;
+IdModule  = MyLib:SOIC-20-W;
+EndCmp
+
+EndListe
